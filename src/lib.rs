@@ -87,7 +87,6 @@ extern crate time;
 extern crate hex;
 
 pub mod oath;
-pub mod pass;
 mod parser;
 
 #[cfg(feature = "cbindings")]
